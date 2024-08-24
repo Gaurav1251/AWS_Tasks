@@ -24,4 +24,4 @@ Each task folder includes a detailed README and any necessary scripts or resourc
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the MIT License - see the  file for details.
