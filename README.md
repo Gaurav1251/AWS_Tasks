@@ -8,7 +8,8 @@ This repository contains a collection of AWS-related tasks, each demonstrating d
 2. **Task2_Name:** Description of Task 2.
 3. **Task3_Name:** Description of Task 3.
 4. Secure Website Deployment with Route 53 and ALB on AWS --> This task guides you through deploying a secure website on AWS, using Route 53 for DNS management, SSL/TLS for encryption, and an Application Load Balancer for efficient traffic distribution. It covers end-to-end setup from EC2 instance creation to domain binding and certificate management.
-5. 
+
+---
 
 Each task folder includes a detailed README and any necessary scripts or resources.
 
