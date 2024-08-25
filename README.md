@@ -11,7 +11,8 @@ This repository contains a collection of AWS-related tasks, each demonstrating d
 
 ---
 
-Each task folder includes a detailed README and any necessary scripts or resources.
+Each task folder includes a detailed README and any necessary scripts or resources.<br>
+[**Secure Website Deployment with Route 53 and ALB on AWS**](./Secure Website Deployment with Route 53 and ALB on AWS)
 
 ---
 
