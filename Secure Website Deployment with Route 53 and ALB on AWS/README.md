@@ -1,11 +1,12 @@
 **Secure Website Deployment with Route 53 and ALB on AWS**
 ---
-**Task Overview**
+
 This guide demonstrates how to set up a secure and scalable website using Amazon Web Services (AWS). The process includes creating an EC2 instance, configuring a web server, purchasing a domain from a third-party provider, and securing the website with SSL/TLS certificates issued by AWS Certificate Manager (ACM). Traffic management is handled efficiently using an Application Load Balancer (ALB).
 Table of Contents
 
     
     Key Components
+    Task Overview
     Steps to Configure the Website
         Step 1: Set Up EC2 Instance
         Step 2: Deploy Website
