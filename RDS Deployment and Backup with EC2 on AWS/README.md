@@ -88,6 +88,8 @@ After completing the setup, your web application should be accessible via the pu
 **Conclusion:**
 
 This guide provides a step-by-step approach to deploying a web application using AWS services and ensuring your database is backed up effectively.
-License
+<br>
+
+**License:**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
