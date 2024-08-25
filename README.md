@@ -5,8 +5,8 @@ This repository contains a collection of AWS-related tasks, each demonstrating d
 ## Tasks Overview
 
 1. **Task1_Name:** Description of Task 1.
-2. **Task2_Name:** Description of Task 2.
-3. **Task3_Name:** Description of Task 3.<br><br>
+2. **Task2_Name:** Description of Task 2.<br><br>
+3. **RDS Deployment and Backup with EC2 on AWS** --> Guide to deploying a MySQL database on AWS RDS, connecting it to an EC2 instance, and creating backups.<br><br>
 4. **Secure Website Deployment with Route 53 and ALB on AWS** --> This task guides you through deploying a secure website on AWS, using Route 53 for DNS management, SSL/TLS for encryption, and an Application Load Balancer for efficient traffic distribution. It covers end-to-end setup from EC2 instance creation to domain binding and certificate management.
 
 ---
