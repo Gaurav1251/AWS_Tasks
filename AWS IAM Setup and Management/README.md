@@ -1,4 +1,4 @@
-***AWS IAM (Identity and Access Management) Guide***
+**AWS IAM (Identity and Access Management) Guide**
 ---
 
 This repository contains documentation and instructions for setting up and managing AWS Identity and Access Management (IAM) to secure your cloud resources.
