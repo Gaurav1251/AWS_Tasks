@@ -60,6 +60,8 @@ Best Practices
 **Conclusion:**
 
 By following this guide, you can secure your AWS environment using IAM, ensuring that only authorized users and services have access to the necessary resources.
-License
+<br>
+
+**License:**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
