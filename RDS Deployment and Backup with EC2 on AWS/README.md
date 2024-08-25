@@ -80,13 +80,14 @@ Step 8: Database Backup Methods
     Data-Only Backup:
     mysqldump -h <rds_endpoint> -u <username> -p --no-create-info <dbname> > /path/onlydata.sql
 ---
-**Output:**
 
+**Output:**
 After completing the setup, your web application should be accessible via the public IP of your EC2 instance. You can log in using the admin and customer credentials to verify the connection to the RDS database.
+
 ---
-**Conclusion :**
+**Conclusion:**
 
 This guide provides a step-by-step approach to deploying a web application using AWS services and ensuring your database is backed up effectively.
 License
----
+
 This project is licensed under the MIT License - see the LICENSE file for details.
