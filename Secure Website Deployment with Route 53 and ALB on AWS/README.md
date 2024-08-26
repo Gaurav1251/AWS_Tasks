@@ -29,7 +29,7 @@ Key Components
     Application Load Balancer: Distributes incoming traffic across multiple targets.
     Third-Party Domain: A domain purchased from a provider like Hostinger and configured in AWS.
 ---
-**Steps to Configure the Website**
+**Steps to Configure the Website**<br>
 Step 1: Set Up EC2 Instance
 
     Create an EC2 Instance:
