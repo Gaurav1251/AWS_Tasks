@@ -13,7 +13,7 @@ This guide provides a step-by-step process for creating an Amazon EC2 instance a
     Conclusion
     License
 ---
-**Task Overview**
+**Task Overview**<br>
 This task guides you through setting up an EC2 instance on AWS. You will launch an instance, configure security settings, and connect to it using SSH, enabling you to manage applications in the AWS cloud effectively.
 **Key Components**
 
@@ -23,7 +23,7 @@ This task guides you through setting up an EC2 instance on AWS. You will launch 
     SSH Client: A software application used to connect to the EC2 instance securely.
 
 
-**Steps to Create an EC2 Instance**
+**Steps to Create an EC2 Instance**<br>
 Step 1: Launch a New EC2 Instance
 
     Log in to your AWS Management Console.
