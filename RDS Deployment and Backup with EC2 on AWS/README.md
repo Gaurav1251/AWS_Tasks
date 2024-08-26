@@ -36,7 +36,7 @@ B) Database Backup on EC2 Instance
         Schema-Only Backup
         Data-Only Backup
 ---
-**Steps**
+**Steps**<br>
 Step 1: Creating an EC2 Instance
 
 Launch an EC2 instance using the AWS Management Console. This instance will host the web application.
