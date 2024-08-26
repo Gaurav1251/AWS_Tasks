@@ -27,7 +27,7 @@ IAM allows you to:
     Use roles to delegate access to users or services.
     Define and attach policies to control permissions.
 ---
-**Steps to Implement IAM**
+**Steps to Implement IAM**<br>
 Step 1: Create IAM Users
 
     Create individual users for each person needing access to your AWS account.
