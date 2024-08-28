@@ -11,7 +11,8 @@ This repository contains a collection of AWS-related tasks, each demonstrating d
 5. **RDS Deployment and Backup with EC2 on AWS -->** Guide to deploying a MySQL database on AWS RDS, connecting it to an EC2 instance, and creating backups.<br><br>
 6. **Secure Website Deployment with Route 53 and ALB on AWS -->** This task guides you through deploying a secure website on AWS, using Route 53 for DNS management, SSL/TLS for encryption, and an Application Load Balancer for efficient traffic distribution. It covers end-to-end setup from EC2 instance creation to domain binding and certificate management.<br><br>
 7. **Deploy Website to S3 with CloudFront -->** This guide provides instructions for deploying a website using Amazon S3 as the storage solution and CloudFront as the CDN.<br><br>
-8. **Deploy Website to EC2 with NGINX and CloudFront -->** This guide provides instructions for deploying a website on an EC2 instance using NGINX as the web server and Amazon CloudFront as the CDN.
+8. **Deploy Website to EC2 with NGINX and CloudFront -->** This guide provides instructions for deploying a website on an EC2 instance using NGINX as the web server and Amazon CloudFront as the CDN.<br><br>
+9. **Angular-Java App Deployment on EC2 Instance -->** This task guides you to deploy an Angular-Java app on an EC2 instance: launch an instance, install Java, Node.js, and a web server, then deploy and run the backend and frontend, configuring necessary settings.
 
 ---
 
