@@ -2,6 +2,54 @@
 
 This repository contains a collection of AWS-related tasks, each demonstrating different configurations, setups, and best practices for various AWS services.
 
+---
+
+**📁 Repository Structure**
+
+    AWS_Tasks/
+    │
+    ├── Creation_of_EC2_Instance_and_Connection_Over_SSH/
+    │   ├── README.md               # Task: Creation of EC2 Instance and Connection Over SSH
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    ├── Create_a_VPC_and_Launch_an_EC2_Instance_Within_It/
+    │   ├── README.md               # Task: Create a VPC and Launch an EC2 Instance Within It
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    ├── Set_Up_EFS_and_Verify_Data_Sharing_Between_TWO_EC2_Instances/
+    │   ├── README.md               # Task: Set Up EFS and Verify Data Sharing Between TWO EC2 Instances
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    ├── AWS_IAM_Setup_and_Management/
+    │   ├── README.md               # Task: AWS IAM Setup and Management
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    ├── RDS_Deployment_and_Backup_with_EC2_on_AWS/
+    │   ├── README.md               # Task: RDS Deployment and Backup with EC2 on AWS
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    ├── Secure_Website_Deployment_with_Route_53_and_ALB_on_AWS/
+    │   ├── README.md               # Task: Secure Website Deployment with Route 53 and ALB on AWS
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    ├── Deploy_Website_to_S3_with_CloudFront/
+    │   ├── README.md               # Task: Deploy Website to S3 with CloudFront
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    ├── Deploy_Website_to_EC2_with_NGINX_and_CloudFront/
+    │   ├── README.md               # Task: Deploy Website to EC2 with NGINX and CloudFront
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    ├── Angular_Java_App_Deployment_on_EC2_Instance/
+    │   ├── README.md               # Task: Angular-Java App Deployment on EC2 Instance
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    ├── Secure_3Tier_AWS_Deployment_Angular_Frontend_Java_Backend_RDS/
+    │   ├── README.md               # Task: Secure 3-Tier AWS Deployment (Angular Frontend, Java Backend, RDS)
+    │   ├── demonstration.pdf       # PDF file demonstrating the task
+    │
+    └── README.md                   # General overview of the repository
+
 ## Tasks Overview
 
 1. **Creation of EC2 Instance and Connection Over SSH -->** The task involves provisioning a virtual server (EC2 instance) on Amazon Web Services (AWS) and establishing a secure connection to it using SSH (Secure Shell) for remote management and operations.<br><br>
