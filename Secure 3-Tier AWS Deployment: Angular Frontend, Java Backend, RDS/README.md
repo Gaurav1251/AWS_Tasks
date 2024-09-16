@@ -1,6 +1,9 @@
 # Secure 3-Tier AWS Deployment: Angular Frontend, Java Backend, RDS
 ---
 
+![Screenshot from 2024-09-16 16-00-45](https://github.com/user-attachments/assets/3dd35297-4c06-4bfc-88a1-fbd73d9717cd)
+
+
 This guide provides a comprehensive walkthrough for deploying a secure 3-tier application on AWS, featuring an Angular frontend, a Java-based backend, and a MariaDB database hosted on AWS RDS. The deployment ensures secure communication, scalable architecture, and efficient traffic management using AWS services.
 Table of Contents
 
